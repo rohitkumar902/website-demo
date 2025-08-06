@@ -1,5 +1,6 @@
-Title: About
+Title: Sam Blog
 Date: 2025-08-06
-Save_as: pages/about.html
+Save\_as: pages/about.html
 
-Welcome to Saurabh Heights — a modern residential project.
+Welcome to Sam blog— a collection of blog of everything
+
