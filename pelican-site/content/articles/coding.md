@@ -1,8 +1,8 @@
-Title: A Beginner's Guide to Coding
+Title: Beginners Guide to Coding
 Date: 2025-08-06 12:52
 Category: Guides
 Tags: coding, beginners, programming, tutorials
-Author: [Your Name]
+Author: ROHIT
 Slug: beginners-guide-to-coding
 
 ---
