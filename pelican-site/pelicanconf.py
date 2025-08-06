@@ -15,4 +15,4 @@ ARTICLE_PATHS = ['articles']
 STATIC_PATHS = ['images']
 
 DEFAULT_PAGINATION = 5
-THEME = 'pelican-themes/future-imperfect'
+THEME = 'pelican-themes/Flex'
