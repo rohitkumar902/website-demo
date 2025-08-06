@@ -16,3 +16,5 @@ STATIC_PATHS = ['images']
 
 DEFAULT_PAGINATION = 5
 THEME = 'pelican-themes/Flex'
+ARTICLE_URL = '{slug}.html'
+ARTICLE_SAVE_AS = '{slug}.html'
