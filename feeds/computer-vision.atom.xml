@@ -1,2 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Saurabh Heights - Computer Vision</title><link href="/" rel="alternate"/><link href="/feeds/computer-vision.atom.xml" rel="self"/><id>/</id><updated>2025-08-06T00:00:00+05:30</updated><entry><title>Getting Started with Computer Vision</title><link href="/opencv-intro.html" rel="alternate"/><published>2025-08-06T00:00:00+05:30</published><updated>2025-08-06T00:00:00+05:30</updated><author><name>Your Name</name></author><id>tag:None,2025-08-06:/opencv-intro.html</id><content type="html">&lt;p&gt;This is your first blog post about computer vision.&lt;/p&gt;</content><category term="Computer Vision"/><category term="opencv"/><category term="ai"/><category term="python"/></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Saurabh Heights - Computer Vision</title><link href="/" rel="alternate"/><link href="/feeds/computer-vision.atom.xml" rel="self"/><id>/</id><updated>2025-08-06T00:00:00+05:30</updated><entry><title>Getting Started with Computer Vision</title><link href="/opencv-intro.html" rel="alternate"/><published>2025-08-06T00:00:00+05:30</published><updated>2025-08-06T00:00:00+05:30</updated><author><name>Your Name</name></author><id>tag:None,2025-08-06:/opencv-intro.html</id><summary type="html">&lt;p&gt;This is your first blog post about computer vision. &lt;/p&gt;
+&lt;p&gt;orem markdownum formam inundet, non tepidis cruciata aether nubes valuere&lt;/p&gt;
+&lt;p&gt;astringi acumina saxo. Et mearum! Memorare quae Nessus perque: sola, alta datur&lt;/p&gt;
+&lt;p&gt;*quid conatoque*, nam natales rubor illa. Iacentia vera, raucaque Rhoetei. Mihi&lt;/p&gt;
+&lt;p&gt;animosque acie fumantia adfert: Themis domesticus lacerata.&lt;/p&gt;
+&lt;p&gt;1 …&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is your first blog post about computer vision. &lt;/p&gt;
+&lt;p&gt;orem markdownum formam inundet, non tepidis cruciata aether nubes valuere&lt;/p&gt;
+&lt;p&gt;astringi acumina saxo. Et mearum! Memorare quae Nessus perque: sola, alta datur&lt;/p&gt;
+&lt;p&gt;*quid conatoque*, nam natales rubor illa. Iacentia vera, raucaque Rhoetei. Mihi&lt;/p&gt;
+&lt;p&gt;animosque acie fumantia adfert: Themis domesticus lacerata.&lt;/p&gt;
+&lt;p&gt;1. Nisi ora&lt;/p&gt;
+&lt;p&gt;2. Quotiens per nobis&lt;/p&gt;
+&lt;p&gt;3. Hinc flammas incessere mors curis comes&lt;/p&gt;
+&lt;p&gt;### Tibi partes premeret&lt;/p&gt;
+&lt;p&gt;Hinc inridens onus ingemuit eras nata si Scylla orbae ordine corpus imitataque&lt;/p&gt;
+&lt;p&gt;es raptusque decor. Haec apte lapsas; lepores intendensque velis coniugiumne&lt;/p&gt;
+&lt;p&gt;rupes Talia. Laniavit iacebas censu medio quam et clamoribus cursus, ergo&lt;/p&gt;
+&lt;p&gt;exstinctum inmani Cerastae.&lt;/p&gt;</content><category term="Computer Vision"/><category term="opencv"/><category term="ai"/><category term="python"/></entry></feed>
