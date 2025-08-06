@@ -1,7 +1,6 @@
 AUTHOR = 'Your Name'
 SITENAME = 'Saurabh Heights'
-SITEURL = ''
-
+SITEURL = 'https://rohitkumar902.github.io/website-demo'
 PATH = 'content'
 
 TIMEZONE = 'Asia/Kolkata'
